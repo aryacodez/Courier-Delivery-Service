@@ -1,0 +1,9 @@
+div{
+    overflow-x: hidden;
+}
+.main{
+    margin-top: -40em;
+    overflow-x: hidden;
+    position: relative;
+    top:0
+}
