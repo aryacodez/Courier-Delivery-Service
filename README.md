@@ -6,7 +6,7 @@ A Courier Delivery Service built using the MERN (MongoDB, Express.js, React.js, 
 
 ## Tech Stack
 - **Server-side:** Node.js, Express.js, MongoDB, REST API
-- **Client-side:** React.js, jsPDF, HTML, Tailwind CSS, ApexCharts.js
+- **Client-side:** React.js, jsPDF, HTML, SCSS, CSS, Tailwind CSS, ApexCharts.js
 - **Messaging Service:** Twilio SMS
 ## Features
 * **User Authentication:** Users can sign up and log in to the application securely.
