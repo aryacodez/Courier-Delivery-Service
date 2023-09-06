@@ -20,7 +20,7 @@ A Courier Delivery Service built using the MERN (MongoDB, Express.js, React.js, 
 Clone the project
 
 ```bash
-  git clone https://github.com/your-username/courier-delivery-service.git
+  git clone [https://github.com/your-username/courier-delivery-service.git](https://github.com/aryacodez/Courier-Delivery-Service.git)
 ```
 
 Go to the project directory
